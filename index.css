@@ -1,0 +1,21 @@
+header{
+    background-color: yellow;
+    font-size: 100px;
+}
+
+body{
+    background-color: darkblue;
+}
+p{
+    font-family: Space Grotesk ;
+}
+
+.a{
+    width: 500px;
+    height: 300px;
+}
+
+.b{
+    width: 500px;
+    height: 300px;
+}
